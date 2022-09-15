@@ -1,0 +1,105 @@
+* {
+	padding: 0;
+	margin: 0;
+	}
+body {
+	background-color: rgb(50, 54, 49)!important;
+}
+#footer {
+	position: fixed;
+ 	left: 0;
+  	bottom: 0;
+	display: block;
+	background: rgb(40, 167, 69);
+	color: white;
+	
+}
+#navigacija {
+	color: #5cb85c;
+	overflow: hidden;
+ 	z-index: 1;
+  	position: fixed; 
+  	top: 0; 
+  	width: 100%;
+}
+
+#kontakt_forma {
+	background-color: rgba(255,250,250,0.1);
+	padding-top: 30px;
+	border-bottom: 2px solid rgb(40, 167, 69);
+	border-top: 2px solid rgb(40, 167, 69);
+	border-radius: 10px;
+	height: 400px;
+	position: center !important; 
+	
+}
+.za_formu {
+	margin-top: 25px;
+	margin-left-right:20px;
+}
+#dugmic {
+	width:100%;
+	
+
+}
+#slika {
+
+}
+
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  }
+.skills {
+	width: 500px; 
+	background-color: rgba(255,250,250,0.1);
+	color: white;
+	margin-top: 5%;
+	border-left: 2px solid rgb(40, 167, 69);
+	text-align: justify;
+
+}
+td {
+	
+	width: 25%;
+}
+figure {
+  border-bottom: 1px rgb(40, 167, 69) solid;
+  border-top: 1px rgb(40, 167, 69) solid;
+  padding: 4px;
+  margin: auto;
+}
+figcaption {
+  background-color:rgb(40, 167, 69) ;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
